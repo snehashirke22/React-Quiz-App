@@ -1,3 +1,12 @@
+# Quizmaster
+
+Quizmaster is a quiz website made using HTML, CSS, React.js
+
+### Demo : https://quizmasterreact.netlify.app/
+![Quizmaster website screenshot](filename.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
