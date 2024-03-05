@@ -3,7 +3,7 @@
 Quizmaster is a quiz website made using HTML, CSS, React.js
 
 ### Demo : https://quizmasterreact.netlify.app/
-![Quizmaster website screenshot](filename.jpg)
+![Quizmaster website screenshot](quizmaster.png)
 
 
 
